@@ -45,7 +45,7 @@ def getJSON(html):
 	data['directors'] = directors	
 		
 	json_data = json.dumps(data)
-	return json_data
+	return json_data    
 	
 def getHTML(url):
 	response = requests.get(url)

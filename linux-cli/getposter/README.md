@@ -1,21 +1,9 @@
-# getposter
-
-My Tool does one thing, and one thing well.
-
-
-# Installation
-
-If you don't use `pipsi`, you're missing out.
-Here are [installation instructions](https://github.com/mitsuhiko/pipsi#readme).
-
-Simply run:
-
-    $ pipsi install .
-
-
-# Usage
-
-To use it:
-
-    $ getposter --help
-
+# วิธีการใช้งาน
+# พิมพ์คำสั่งใน Terminal
+- git clone https://github.com/ploysptn/linux-lab.git
+- cd linux-lab
+- cd linux-cli
+- cd getposter
+- pip install -U --user .
+- getposter TheBigShort
+# สามารถ ดึงรูป poster ภาพยนต์เรื่องต่างๆได้
